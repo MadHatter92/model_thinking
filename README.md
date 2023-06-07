@@ -12,7 +12,8 @@
   ![Collatz Image](Colllatz_100000.png)
 ---
 **3. TFR and Population Pyramid Modelling**
-TFR Modelling
+[TFR Modelling](TFR_Modelling_and_Simulations.ipynb)
+![Simulated_population_pyramid](pyramid.png)
 Let's say we know the following:
 1. A population distribution by age (histogram)
 2. The current TFR (normal distribution with mu and sigma, or maybe just an average number for this case)
