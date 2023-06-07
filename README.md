@@ -12,7 +12,8 @@
   ![Collatz Image](Colllatz_100000.png)
 ---
 **3. TFR and Population Pyramid Modelling**
-[TFR Modelling](TFR_Modelling_and_Simulations.ipynb)
+[TFR Modelling](TFR_Modelling_and_Simulations.ipynb) shows TFR and sex ratio effects in a population distribution over time.
+[Population Comparison](Population_Comparison.ipynb) shows the growth curves of two populations side by side.
 Let's say we know the following:
 1. A population distribution by age (histogram)
 2. The current TFR (normal distribution with mu and sigma, or maybe just an average number for this case)
