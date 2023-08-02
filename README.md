@@ -30,3 +30,7 @@ Observe:
 4. Can sex ratio / gender imbalance be incorporated?
 
 ![Simulated_population_pyramid](pyramid.png)
+---
+**4. K-means Clustering**
+A simple implementation of K-means Clustering
+![K-means Clustering Showing Data and Centroids](k_means_clustering.png)
